@@ -1,2 +1,4 @@
 # hello-world
-my first repository
+hello world
+I like coding!
+I will never give up!
